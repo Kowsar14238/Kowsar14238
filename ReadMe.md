@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on a coffee shop project<br>Currently learning ReactJS, Python<br>All projects are available at https://github.com/Kowsar14238?tab=repositories<br>Ask me about JS, HTML5, CSS3<br>How to reach me akmkowsar99@gmail.com<br>
+Currently working on some projects which are at the top of my repo of git<br>Currently learning ReactJS, MongoDB<br>All projects are available at https://github.com/Kowsar14238?tab=repositories<br>Ask me about JS, HTML5, CSS3, React, MongoDB<br>How to reach me akmkowsar99@gmail.com<br>
 
 
 ## 🌐 Socials:
